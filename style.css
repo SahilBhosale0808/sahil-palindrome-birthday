@@ -1,0 +1,50 @@
+h1{
+    margin-top: 1rem;
+    background-color: aqua;
+    width: 70%;
+    padding: 1rem;
+    color: #4D648D;
+    border-radius: 1rem;
+    font-size: 3rem;
+}
+label{
+    margin: 1.5rem;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: #4D648D;
+}
+input{
+    margin-top: 0.5rem;
+    width: 10rem;
+    font-size: medium;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background-color: #B0CEFF;
+    border: 2px solid #4D648D;
+}
+button {
+    background-color: aqua;
+    margin: 2rem;
+    font-size: large;
+    border: 2px solid #4D648D;
+    padding: 0.7rem;
+    border-radius: 0.7rem;
+}
+p{
+    font-size: 2rem;
+    color: #4D648D;
+    font-weight: bolder;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;    
+}
+
+body{
+    background-color: #B0CEFF;
+}
+
