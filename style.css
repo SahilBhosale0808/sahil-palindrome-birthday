@@ -5,11 +5,11 @@ h1{
     padding: 1rem;
     color: #4D648D;
     border-radius: 1rem;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 label{
     margin: 1.5rem;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: bolder;
     color: #4D648D;
 }
@@ -32,7 +32,7 @@ button {
 }
 p{
     margin: 1rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #4D648D;
     font-weight: bolder;
 }
